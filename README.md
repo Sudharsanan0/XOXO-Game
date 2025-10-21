@@ -24,11 +24,6 @@ A fully functional **Tic Tac Toe** game built using **HTML, CSS, and JavaScript*
 
 ---
 
-## 📸 Preview
-![Tic Tac Toe Preview](https://user-images.githubusercontent.com/yourgithubusername/demo-image.png)
-
----
-
 ## 💡 Learnings
 While building this project, I learned:  
 - DOM manipulation using JavaScript  
@@ -38,7 +33,7 @@ While building this project, I learned:
 ---
 
 ## 🧑‍💻 Author
-👋 **SUDHARSANAN M**  
+👋 ** SUDHARSANAN K M **  
 Front-end Developer | Java Full Stack Learner  
 🔗 [Portfolio](https://sudharsanan-xoxo.netlify.app)  
 
